@@ -1,5 +1,7 @@
 # 🕹️ SAVE POINT — Retro Podcast Website
 
+![Screeshoot](Screenshoot_Spec.jpeg)
+
 > **"Two controllers, one mic — deep dives into 16-bit legends."**
 
 Sitio web estático para un podcast temático sobre videojuegos retro clásicos. Diseñado con una marcada estética visual inspirada en la era dorada de los videojuegos de 16 bits (estilo arcade, scanlines CRT, paleta retro vibrante y tipografía monoespaciada), construido bajo una arquitectura _Static-First_ y guiado por la metodología **Spec-Driven Development (SDD)**.
